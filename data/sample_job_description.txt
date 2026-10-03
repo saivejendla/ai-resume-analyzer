@@ -1,0 +1,6 @@
+We are looking for an AI Engineer with experience in Python, SQL,
+Machine Learning, Generative AI, LLMs, Prompt Engineering, RAG,
+Embeddings, Hugging Face, Git and Vector Databases.
+
+The candidate should have experience developing AI applications
+and working with Large Language Models.
